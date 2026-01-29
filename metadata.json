@@ -1,0 +1,9 @@
+
+{
+  "name": "SAFECLICK - Social Engineering Awareness & Detection System",
+  "description": "A comprehensive cybersecurity platform for learning about social engineering attacks and detecting malicious digital content like phishing links, emails, and messages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
